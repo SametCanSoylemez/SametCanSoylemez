@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cansoylemezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cansoylemezz" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/samet-can-s%c3%b6ylemez-235766204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samet-can-s%c3%b6ylemez-235766204/" height="30" width="40" /></a>
+<a href="/samet-can-s%c3%b6ylemez-235766204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samet-can-s%c3%b6ylemez-235766204/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/cansoylemezz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cansoylemezz/" height="30" width="40" /></a>
 </p>
 
